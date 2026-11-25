@@ -74,8 +74,8 @@ The project answers three questions:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/VinayakMokashi/NSA-225-Var-Cointegration-Analysis.git
-cd NSA-225-Var-Cointegration-Analysis
+git clone https://github.com/VinayakMokashi/nikkei-225-var-cointegration.git
+cd nikkei-225-var-cointegration
 ```
 
 ### 2. Install the R dependencies
