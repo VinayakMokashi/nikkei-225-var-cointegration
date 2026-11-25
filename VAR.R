@@ -25,7 +25,7 @@ library(ggplot2)    # scatter plot
 # ---- Load the dataset -------------------------------------------------------
 # Reads DataFile.csv from the working directory; falls back to a file-picker
 # dialog if the file is not found. Set the working directory to the repository
-# root before running, e.g. setwd("path/to/NSA-225-Var-Cointegration-Analysis").
+# root before running, e.g. setwd("path/to/nikkei-225-var-cointegration").
 data = if (file.exists("DataFile.csv")) {
   read.csv("DataFile.csv", header = TRUE)
 } else {
